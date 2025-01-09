@@ -30,8 +30,10 @@ Desarrollé una aplicación web interactiva para el diseño de columnas de concr
 - Validación de fuerzas de diseño dentro o fuera de la superficie de interacción.  
 
 ![Imagen del proyecto](assets/img/VIKTOR.gif)
-![Imagen del proyecto](assets/img/VIKTOR_2.png)
-![Imagen del proyecto](assets/img/VIKTOR_3.png)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="assets/img/VIKTOR_2.png" alt="Imagen 1" width="500">
+  <img src="assets/img/VIKTOR_3.png" alt="Imagen 2" width="500">
+</div>
 
 [![Ver en GitHub](https://via.placeholder.com/150x50/0056A3/FFFFFF?text=Repositorio+en+GitHub)](https://github.com/KaizzerZz/Interaction_diag_col)
 
