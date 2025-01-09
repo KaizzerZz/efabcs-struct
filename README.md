@@ -78,7 +78,8 @@ Esta aplicación académica desarrollada en Streamlit muestra los cálculos nece
 [![Post LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/posts/edsonfabcs_python-streamlit-programaciaejn-activity-7204163730484379648-pWkH?utm_source=share&utm_medium=member_desktop)
 
 ![Imagen del proyecto](assets/img/beam_1.png)
-![Imagen del proyecto](assets/img/beam_2.png)
-![Imagen del proyecto](assets/img/beam_3.png)
-
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="assets/img/beam_2.png" alt="Imagen 1" width="500">
+  <img src="assets/img/beam_3.png" alt="Imagen 2" width="500">
+</div>
 
