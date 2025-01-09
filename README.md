@@ -53,7 +53,7 @@ Esta aplicación automatiza el análisis sísmico según la normativa peruana E0
 - Ploteo de espectros de respuesta.  
 - Verificación de distorsiones según combinaciones modales.  
 
-![Imagen del proyecto](assets/img/RAPSAN_1.png)
+![Imagen del proyecto](assets/img/Análisis sísmico.gif)
 ![Imagen del proyecto](assets/img/RAPSAN_2.png)
 ![Imagen del proyecto](assets/img/RAPSAN_3.png)
 ![Imagen del proyecto](assets/img/RAPSAN_4.png)
