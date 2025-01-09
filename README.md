@@ -29,6 +29,8 @@ Desarrollé una aplicación web interactiva para el diseño de columnas de concr
 - Cálculo de compatibilidad de deformaciones.  
 - Iteraciones para diversas distancias de fibra en compresión y ángulos de rotación.  
 - Validación de fuerzas de diseño dentro o fuera de la superficie de interacción.  
+[![Aplicación Web](https://img.shields.io/badge/Web-App-blue?logo=Google-Chrome&logoColor=white)](https://cloud.viktor.ai/public/column-interaction-surface)
+[![Ver en GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=GitHub&logoColor=white)](https://github.com/KaizzerZz/Interaction_diag_col)
 
 ![Imagen del proyecto](assets/img/VIKTOR.gif)
 <div style="display: flex; justify-content: center; gap: 10px;">
@@ -36,8 +38,7 @@ Desarrollé una aplicación web interactiva para el diseño de columnas de concr
   <img src="assets/img/VIKTOR_3.png" alt="Imagen 2" width="500">
 </div>
 
-[![Aplicación Web](https://img.shields.io/badge/Web-App-blue?logo=Google-Chrome&logoColor=white)](https://cloud.viktor.ai/public/column-interaction-surface)
-[![Ver en GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=GitHub&logoColor=white)](https://github.com/KaizzerZz/Interaction_diag_col)
+
 
 ---
 
@@ -52,6 +53,7 @@ Esta aplicación automatiza el análisis sísmico según la normativa peruana E0
 - Verificación de irregularidades y sistemas estructurales.  
 - Ploteo de espectros de respuesta.  
 - Verificación de distorsiones según combinaciones modales.  
+[![Post LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/posts/edsonfabcs_anaerlisissaedsmico-automatizaciaejn-estructural-activity-7275571238389878784-sR5u?utm_source=share&utm_medium=member_desktop)
 
 ![Imagen del proyecto](assets/img/Ana_sis.gif)
 ![Imagen del proyecto](assets/img/RAPSAN_2.png)
@@ -60,7 +62,7 @@ Esta aplicación automatiza el análisis sísmico según la normativa peruana E0
 
 
 
-[![Post LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/posts/edsonfabcs_anaerlisissaedsmico-automatizaciaejn-estructural-activity-7275571238389878784-sR5u?utm_source=share&utm_medium=member_desktop)
+
 
 ---
 
@@ -72,10 +74,11 @@ Esta aplicación académica desarrollada en Streamlit muestra los cálculos nece
 - Representación del área de Whitney.  
 - Uso del método de compatibilidad de deformaciones.  
 - Visualización detallada de los resultados.  
+[![Aplicación Web](https://img.shields.io/badge/Web-App-blue?logo=Google-Chrome&logoColor=white)](https://flexure-beam-design.streamlit.app/)
+[![Post LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/posts/edsonfabcs_python-streamlit-programaciaejn-activity-7204163730484379648-pWkH?utm_source=share&utm_medium=member_desktop)
 
 ![Imagen del proyecto](assets/img/beam_1.png)
 ![Imagen del proyecto](assets/img/beam_2.png)
 ![Imagen del proyecto](assets/img/beam_3.png)
 
-[![Aplicación Web](https://img.shields.io/badge/Web-App-blue?logo=Google-Chrome&logoColor=white)](https://flexure-beam-design.streamlit.app/)
-[![Post LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/posts/edsonfabcs_python-streamlit-programaciaejn-activity-7204163730484379648-pWkH?utm_source=share&utm_medium=member_desktop)
+
