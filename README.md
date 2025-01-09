@@ -12,10 +12,7 @@ Este proyecto utiliza OpenSeesPy para automatizar un análisis lineal tiempo his
 - Uso directo de datos en formato Excel.  
 - Resultados gráficos del análisis dinámico.  
 
-![Imagen del proyecto](path/aqui_tu_imagen.gif)
-
-[![Ver en GitHub](https://via.placeholder.com/150x50/007BFF/FFFFFF?text=Repositorio+en+GitHub)](https://github.com/tu-repositorio)
-[![Acceder al post en LinkedIn](https://via.placeholder.com/150x50/007BFF/FFFFFF?text=Post+en+LinkedIn)](https://linkedin.com/tu-post)
+![Imagen del proyecto](path/opensees.gif)
 
 ---
 
