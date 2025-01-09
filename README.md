@@ -65,7 +65,8 @@ Esta aplicación académica desarrollada en Streamlit muestra los cálculos nece
 - Uso del método de compatibilidad de deformaciones.  
 - Visualización detallada de los resultados.  
 
-![Imagen del proyecto](path/aqui_tu_imagen.gif)
+![Imagen del proyecto](assets/img/beam_1.png)
+![Imagen del proyecto](assets/img/beam_2.png)
+![Imagen del proyecto](assets/img/beam_3.png)
 
-[![Ver en GitHub](https://via.placeholder.com/150x50/00264D/FFFFFF?text=Repositorio+en+GitHub)](https://github.com/tu-repositorio)
-[![Acceder a la aplicación](https://via.placeholder.com/150x50/00264D/FFFFFF?text=Aplicación+Web)](https://link-a-tu-app)
+[![Acceder a la aplicación]([https://via.placeholder.com/150x50/00264D/FFFFFF?text=Aplicación+Web)](https://link-a-tu-app](https://www.linkedin.com/posts/edsonfabcs_python-streamlit-programaciaejn-activity-7204163730484379648-pWkH?utm_source=share&utm_medium=member_desktop))
