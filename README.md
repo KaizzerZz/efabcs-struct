@@ -13,8 +13,10 @@ Este proyecto utiliza OpenSeesPy para automatizar un análisis lineal tiempo his
 - Resultados gráficos del análisis dinámico.  
 
 ![Imagen del proyecto](assets/img/opensees.gif)
-![Imagen del proyecto](assets/img/opensees_1.png)
-![Imagen del proyecto](assets/img/opensees_2.png)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="assets/img/opensees_1.png" alt="Imagen 1" width="300">
+  <img src="assets/img/opensees_2.png" alt="Imagen 2" width="300">
+</div>
 
 ---
 
