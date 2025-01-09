@@ -13,7 +13,8 @@ Este proyecto utiliza OpenSeesPy para automatizar un análisis lineal tiempo his
 - Resultados gráficos del análisis dinámico.  
 
 ![Imagen del proyecto](assets/img/opensees.gif)
-![Imagen del proyecto]()
+![Imagen del proyecto](assets/img/opensees_1.png)
+![Imagen del proyecto](assets/img/opensees_2.png)
 
 ---
 
@@ -26,10 +27,11 @@ Desarrollé una aplicación web interactiva para el diseño de columnas de concr
 - Iteraciones para diversas distancias de fibra en compresión y ángulos de rotación.  
 - Validación de fuerzas de diseño dentro o fuera de la superficie de interacción.  
 
-![Imagen del proyecto](path/aqui_tu_imagen.gif)
+![Imagen del proyecto](assets/img/VIKTOR.gif)
+![Imagen del proyecto](assets/img/VIKTOR_2.png)
+![Imagen del proyecto](assets/img/VIKTOR3_png)
 
 [![Ver en GitHub](https://via.placeholder.com/150x50/0056A3/FFFFFF?text=Repositorio+en+GitHub)](https://github.com/tu-repositorio)
-[![Acceder a la aplicación](https://via.placeholder.com/150x50/0056A3/FFFFFF?text=Aplicación+Web)](https://link-a-tu-app)
 
 ---
 
@@ -45,9 +47,12 @@ Esta aplicación automatiza el análisis sísmico según la normativa peruana E0
 - Ploteo de espectros de respuesta.  
 - Verificación de distorsiones según combinaciones modales.  
 
-![Imagen del proyecto](path/aqui_tu_imagen.gif)
+![Imagen del proyecto](assets/img/RAPSAN_1.png)
+![Imagen del proyecto](assets/img/RAPSAN_2.png)
+![Imagen del proyecto](assets/img/RAPSAN_3.png)
+![Imagen del proyecto](assets/img/RAPSAN_4.png)
 
-[![Ver en GitHub](https://via.placeholder.com/150x50/004080/FFFFFF?text=Repositorio+en+GitHub)](https://github.com/tu-repositorio)
+[![Acceder a la aplicación]([https://via.placeholder.com/150x50/00264D/FFFFFF?text=Aplicación+Web)](https://link-a-tu-app](https://www.linkedin.com/posts/edsonfabcs_anaerlisissaedsmico-automatizaciaejn-estructural-activity-7275571238389878784-sR5u?utm_source=share&utm_medium=member_desktop))
 
 ---
 
