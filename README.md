@@ -14,8 +14,8 @@ Este proyecto utiliza OpenSeesPy para automatizar un análisis lineal tiempo his
 
 ![Imagen del proyecto](assets/img/opensees.gif)
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="assets/img/opensees_1.png" alt="Imagen 1" width="300">
-  <img src="assets/img/opensees_2.png" alt="Imagen 2" width="300">
+  <img src="assets/img/opensees_1.png" alt="Imagen 1" width="500">
+  <img src="assets/img/opensees_2.png" alt="Imagen 2" width="500">
 </div>
 
 ---
