@@ -1,6 +1,7 @@
-# Mis Proyectos :sparkles:
+# Portafolio de Ingeniería Estructural
+Este portafolio presenta una vista rápida y general de los proyectos que he desarrollado en la automatización del análisis y el diseño estructural.
 
-## 1. Automatización de Análisis Lineal Tiempo Historia con OpenSeesPy
+## Automatización de Análisis Lineal Tiempo Historia con OpenSeesPy
 
 **Descripción:**  
 Este proyecto utiliza OpenSeesPy para automatizar un análisis lineal tiempo historia en una estructura irregular. El código incluye:  
@@ -20,7 +21,7 @@ Este proyecto utiliza OpenSeesPy para automatizar un análisis lineal tiempo his
 
 ---
 
-## 2. Página Web para Diseño de Columnas de Concreto Armado
+## Aplicación Web para Diseño de Columnas de Concreto Armado
 
 **Descripción:**  
 Desarrollé una aplicación web interactiva para el diseño de columnas de concreto armado, enfocándome en la generación de superficies de interacción para secciones rectangulares. La aplicación incluye:  
@@ -35,11 +36,12 @@ Desarrollé una aplicación web interactiva para el diseño de columnas de concr
   <img src="assets/img/VIKTOR_3.png" alt="Imagen 2" width="500">
 </div>
 
-[![Ver en GitHub](https://via.placeholder.com/150x50/0056A3/FFFFFF?text=Repositorio+en+GitHub)](https://github.com/KaizzerZz/Interaction_diag_col)
+[![Aplicación Web](https://img.shields.io/badge/Web-App-blue?logo=Google-Chrome&logoColor=white)](https://cloud.viktor.ai/public/column-interaction-surface)
+[![Ver en GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=GitHub&logoColor=white)](https://github.com/KaizzerZz/Interaction_diag_col)
 
 ---
 
-## 3. Aplicación de Escritorio para Análisis Sísmico con la API de ETABS
+## Aplicación de Escritorio para Análisis Sísmico con la API de ETABS
 
 **Descripción:**  
 Esta aplicación automatiza el análisis sísmico según la normativa peruana E030, utilizando la API de ETABS en Python. Permite al usuario concentrarse en la toma de decisiones al reducir los procesos manuales de la normativa.  
@@ -56,11 +58,13 @@ Esta aplicación automatiza el análisis sísmico según la normativa peruana E0
 ![Imagen del proyecto](assets/img/RAPSAN_3.png)
 ![Imagen del proyecto](assets/img/RAPSAN_4.png)
 
-[![Post LinkedIn](https://via.placeholder.com/150x50/0056A3/FFFFFF?text=Aplicación+Web)](https://www.linkedin.com/posts/edsonfabcs_anaerlisissaedsmico-automatizaciaejn-estructural-activity-7275571238389878784-sR5u?utm_source=share&utm_medium=member_desktop)
+
+
+[![Post LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/posts/edsonfabcs_anaerlisissaedsmico-automatizaciaejn-estructural-activity-7275571238389878784-sR5u?utm_source=share&utm_medium=member_desktop)
 
 ---
 
-## 4. Aplicación en Streamlit para Diseño de Vigas Rectangulares
+## Aplicación Web para Diseño de Vigas Rectangulares
 
 **Descripción:**  
 Esta aplicación académica desarrollada en Streamlit muestra los cálculos necesarios para diseñar vigas rectangulares de concreto armado. Entre sus funcionalidades incluye:  
@@ -73,4 +77,5 @@ Esta aplicación académica desarrollada en Streamlit muestra los cálculos nece
 ![Imagen del proyecto](assets/img/beam_2.png)
 ![Imagen del proyecto](assets/img/beam_3.png)
 
-[![Post LinkedIn](https://via.placeholder.com/150x50/0056A3/FFFFFF?text=Aplicación+Web)](https://www.linkedin.com/posts/edsonfabcs_python-streamlit-programaciaejn-activity-7204163730484379648-pWkH?utm_source=share&utm_medium=member_desktop)
+[![Aplicación Web](https://img.shields.io/badge/Web-App-blue?logo=Google-Chrome&logoColor=white)](https://flexure-beam-design.streamlit.app/)
+[![Post LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/posts/edsonfabcs_python-streamlit-programaciaejn-activity-7204163730484379648-pWkH?utm_source=share&utm_medium=member_desktop)
