@@ -2,7 +2,9 @@
 Este portafolio presenta una vista rápida y general de los proyectos que he desarrollado en la automatización del análisis y el diseño estructural.
 
 ## Automatización de Análisis Lineal Tiempo Historia con OpenSeesPy
+
 <span style="color:red;"><b>Proyecto en proceso ...</b></span>
+
 **Descripción:**  
 Este proyecto utiliza OpenSeesPy para automatizar un análisis lineal tiempo historia en una estructura irregular. El código incluye:  
 - Modelamiento estructural a partir de datos ingresados por el usuario en un archivo Excel para nodos y elementos.  
