@@ -18,11 +18,6 @@ Este proyecto utiliza OpenSeesPy para automatizar un análisis lineal tiempo his
 <img src="assets\img\opensees_2.png" width="53%" height="100%">
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="assets/img/opensees_1.png" alt="Imagen 1" width="300">
-  <img src="assets/img/opensees_2.png" alt="Imagen 2" width="300">
-</div>
-
 ---
 
 ## Aplicación Web para Diseño de Columnas de Concreto Armado
@@ -41,13 +36,6 @@ Desarrollé una aplicación web interactiva para el diseño de columnas de concr
 <img src="assets\img\VIKTOR_2.png" width="46%" height="100%">
 <img src="assets\img\VIKTOR_3.png" width="53%" height="100%">
 </p>
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="assets/img/VIKTOR_2.png" alt="Imagen 1" width="300">
-  <img src="assets/img/VIKTOR_3.png" alt="Imagen 2" width="300">
-</div>
-
-
 
 ---
 
@@ -87,8 +75,9 @@ Esta aplicación académica desarrollada en Streamlit muestra los cálculos nece
 [![Post LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/posts/edsonfabcs_python-streamlit-programaciaejn-activity-7204163730484379648-pWkH?utm_source=share&utm_medium=member_desktop)
 
 ![Imagen del proyecto](assets/img/beam_1.png)
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="assets/img/beam_2.png" alt="Imagen 1" width="300">
-  <img src="assets/img/beam_3.png" alt="Imagen 2" width="300">
-</div>
+
+<p align="center">
+<img src="assets\img\beam_2.png" width="46%" height="100%">
+<img src="assets\img\beam_3.png" width="53%" height="100%">
+</p>
 
