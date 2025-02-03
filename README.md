@@ -15,7 +15,7 @@ Este proyecto utiliza OpenSeesPy para automatizar un análisis lineal tiempo his
 - Uso directo de datos en formato Excel.  
 - Resultados gráficos del análisis dinámico.  
 
-![Imagen del proyecto](assets/img/opensees.gif)
+![Imagen del proyecto](assets/img/Motion of 3D Model (online-video-cutter.com).gif)
 <p align="center">
 <img src="assets\img\opensees_1.png" width="46%" height="100%">
 <img src="assets\img\opensees_2.png" width="53%" height="100%">
